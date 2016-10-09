@@ -52,7 +52,6 @@ Also, keep your Paypal receipt as proof of payment and your good to go.
 
 ------------------------------------------------------------------------------------------------------ 
 
-
 SUPPORT:
     
 Since CEEVEE is distributed for free, support is not offered. CEEVEE is coded according 
@@ -111,8 +110,5 @@ Javascript Files:
 
 
 --------------------------------------------------------------------------------------------------------- 
-
-
-Thanks for downloading from Styleshout :)
   
 
